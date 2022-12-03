@@ -1,0 +1,1 @@
+console.log("BAR: Isso não deve ser executado")
